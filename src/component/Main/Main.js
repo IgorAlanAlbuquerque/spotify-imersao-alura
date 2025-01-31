@@ -1,4 +1,5 @@
 import React from "react";
+import './Main.css';
 
 import Playlist1 from '../../assets/playlist/1.jpeg';
 import Playlist2 from '../../assets/playlist/2.png';
